@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Econometria"
+  title: "BVeloni"
   navbar:
     left:
       - href: index.qmd

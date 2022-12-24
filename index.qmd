@@ -1,6 +1,6 @@
 ---
-title: "Introdução à Econometria"
-image: econometriwool.jpg
+title: "Bruno"
+image: thai.jpg
 about:
   template: solana
   image-shape: rounded
